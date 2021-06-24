@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artulse
 - 👀 I’m interested in android
-- 🌱 I’m currently learning android, PHP, API's
+- 🌱 I’m currently learning android, JAVA, PHP, API's
 - 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me tulseabhishek@gmail.com
 
